@@ -4,19 +4,19 @@
     padding: 80px 0;
 
     &--frontend {
-        background-image: linear-gradient(variables.$red, variables.$yellow);
+        background-image: linear-gradient(variables.$black, variables.$gray);
     }
 
     &--ui-ux {
-        background-image: linear-gradient(variables.$yellow, variables.$red);
+        background-image: linear-gradient(variables.$gray, variables.$black);
     }
 
     &--data-sciense {
-        background-image: linear-gradient(variables.$red, variables.$yellow);
+        background-image: linear-gradient(variables.$black, variables.$gray);
     }
 
     &--backend {
-        background-image: linear-gradient(variables.$yellow, variables.$red);
+        background-image: linear-gradient(variables.$gray, variables.$black);
     }
 
     &--image-left {
